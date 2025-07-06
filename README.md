@@ -1,0 +1,2 @@
+# .github
+Smart money solutions
